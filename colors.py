@@ -1,0 +1,32 @@
+RED = (0, 255, 0)
+BLUE = (0, 0, 255)
+GREEN = (255, 0, 0)
+YELLOW = (255, 255, 0)
+AQUA = (255, 0, 255)
+PURPLE = (0, 128, 128)
+GOLD = (215, 255, 0)
+WHITE = (255, 255, 255)
+MAGENTA = (0, 255,255)
+PINK = (192, 255,203)
+BLACK = (0,0,0)
+DODGER_BLUE = (144, 30,255)
+ORANGE = (165, 255,0)
+BLANK = (0, 0, 0)
+
+ALL_COLORS = [
+    DODGER_BLUE,
+    WHITE,
+    RED,
+    BLUE,
+    GREEN,
+    YELLOW,
+    AQUA,
+    ORANGE,
+    PURPLE,
+    GOLD,
+    WHITE,
+    MAGENTA,
+    PINK,
+]
+
+XMAS_COLORS = (GREEN, RED, WHITE)
